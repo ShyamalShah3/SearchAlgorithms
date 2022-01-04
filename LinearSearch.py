@@ -1,6 +1,8 @@
     def linear_search(n: int, v: list[int]) -> int:
         """
         Searches vector to find the inputted integer. If found, returns 1. Else returns 0.
+        Time Complexity: Theta(n)
+        Space Complexity: Theta(1)
 
         Parameters
         ----------
