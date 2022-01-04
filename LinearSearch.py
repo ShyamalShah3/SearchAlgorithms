@@ -1,4 +1,4 @@
-    def linear_search(self, n: int, v: list[int]) -> int:
+    def linear_search(n: int, v: list[int]) -> int:
         """
         Searches vector to find the inputted integer. If found, returns 1. Else returns 0.
 
