@@ -10,7 +10,7 @@
         n : int
             The integer to search for in vector
         v : list[int]
-            The vector to search in.
+            The vector to search in. Assumed to be sorted in ascending order.
         """
         start = 0
         end = len(v)-1
